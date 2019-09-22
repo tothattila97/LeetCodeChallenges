@@ -1,4 +1,4 @@
-public static int StrStr(string haystack, string needle)
+public int StrStr(string haystack, string needle)
         {
 
             if (!haystack.Contains(needle))
